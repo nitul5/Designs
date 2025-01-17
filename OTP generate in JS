@@ -1,0 +1,7 @@
+// Create a button in the a HTML document and then in JS file type the following code:
+
+simple and easy to generate OTP of 4 digits number!
+
+function otp(){
+    let opts = console.log( Math.floor(Math.random()*9000+1000));  // I used 1000 so that, on each click the otp should be different without any pattern! 
+}
